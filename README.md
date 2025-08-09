@@ -1,7 +1,7 @@
 # I'M NAVEEN VIJAYAKUMAR
 
 
- 💫 About Me:
+
 🔥 About Me<br>🎓 B.E. Computer Science and Engineering @ VSB Engineering College (2022–2026)<br>👨‍💻 Passionate about Java, Full Stack Development, and Artificial Intelligence<br>🌱 Currently learning React.js, Spring Boot, and exploring Vibe coding tools<br>💼 Aspiring Software Developer aiming to build scalable, impactful applications
 
 
